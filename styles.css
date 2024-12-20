@@ -1,0 +1,26 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+img {
+  width: 400px !important;
+  height: auto;
+  border: 2px solid black;
+}
+#puppy-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+
+button {
+  color: white;
+  background-color: purple;
+}
+h3{
+  font-size: 2rem;
+  color: red;
+}
